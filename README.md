@@ -15,3 +15,6 @@ For help getting started with Flutter, view our online
 <li><a href="https://pub.dartlang.org/packages/cached_network_image"/>Cached network image</li>
 <li><a href="https://pub.dartlang.org/packages/url_launcher"/>url_launcher</li>
 </ol>
+
+## API Key
+I used the New York Times Top Stories API. Please, <a href="https://medium.com/r/?url=https%3A%2F%2Fdeveloper.nytimes.com%2Fsignup">head over here</a> to get your API key. Remember to select “Top Stories” from the API drop-down.
