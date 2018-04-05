@@ -17,4 +17,4 @@ For help getting started with Flutter, view our online
 </ol>
 
 ## API Key
-I used the New York Times Top Stories API. Please, <a href="https://medium.com/r/?url=https%3A%2F%2Fdeveloper.nytimes.com%2Fsignup">head over here</a> to get your API key. Remember to select “Top Stories” from the API drop-down.
+I used the New York Times Top Stories API. Please, <a href="https://developer.nytimes.com/signup">head over here</a> to get your API key. Remember to select “Top Stories” from the API drop-down.
