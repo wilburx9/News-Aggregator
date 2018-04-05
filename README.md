@@ -11,9 +11,9 @@ For help getting started with Flutter, view our online
 
 ## Dependencies
 <ol>
-<li><a href="https://pub.dartlang.org/packages/intl"/>Intl</li>
-<li><a href="https://pub.dartlang.org/packages/cached_network_image"/>Cached network image</li>
-<li><a href="https://pub.dartlang.org/packages/url_launcher"/>url_launcher</li>
+<li><a href="https://pub.dartlang.org/packages/intl">Intl</a></li>
+<li><a href="https://pub.dartlang.org/packages/cached_network_image">Cached network image</a></li>
+<li><a href="https://pub.dartlang.org/packages/url_launcher">url_launcher</a></li>
 </ol>
 
 ## API Key
